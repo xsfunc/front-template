@@ -1,0 +1,1 @@
+# Vite + Effector + React template
